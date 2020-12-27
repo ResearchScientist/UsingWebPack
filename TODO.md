@@ -1,0 +1,11 @@
+# Web Pack
+
+### Workspaces
+- [x] init local workspace
+- [x] make remote repo
+- [] init remote workspace
+
+### Installations
+- [] webpack
+- [] cli
+
