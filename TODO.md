@@ -9,3 +9,7 @@
 - [] webpack
 - [] cli
 
+### Starter Files
+- [x] html
+- [x] css
+- [x] js
