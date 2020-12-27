@@ -3,7 +3,7 @@
 ### Workspaces
 - [x] init local workspace
 - [x] make remote repo
-- [] init remote workspace
+- [x] init remote workspace
 
 ### Installations
 - [] webpack
