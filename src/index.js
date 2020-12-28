@@ -1,3 +1,8 @@
-import nav from "./navigation";
+export default addComment;
 
-console.log(nav);
+document.body.onload = addComment;
+
+function addComment() {
+  let p = document.createElement("p");
+  document.body.appendChild(p);
+};
