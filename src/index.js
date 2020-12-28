@@ -1,8 +1,3 @@
-export default addComment;
+import cs from "./deleteTask";
 
-document.body.onload = addComment;
-
-function addComment() {
-  let p = document.createElement("p");
-  document.body.appendChild(p);
-};
+console.log(cs);
