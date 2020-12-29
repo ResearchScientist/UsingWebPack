@@ -1,4 +1,4 @@
 import { showThings } from "./show";
-import {*} from './show.js';
+import {showThings,kittens,lions,toys,food} from './show.js';
 
 showThings(lyons);
