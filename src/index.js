@@ -1,5 +1,5 @@
-import {showThings,kittens,lions,toys,food} from './show.js';
+import {showThings} from './show.js';
+import {kittens,lions} from './cats';
+import {toys,food} from './things';
 
-const showlions = showThings(lions);
-
-console.log(showlions);
+console.log(showThings(lions));
