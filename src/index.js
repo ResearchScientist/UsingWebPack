@@ -1,3 +1,4 @@
-import cs from "./deleteTask";
+import { showThings } from "./show";
+import {*} from './show.js';
 
-console.log(cs);
+showThings(lyons);
