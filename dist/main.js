@@ -1,0 +1,1 @@
+(()=>{"use strict";console.log(function(o){for(let l=0;l<o.length;l++){const n=o[l];console.log(n)}}(["cuddles","snuggles","Tabitha","hungry"]))})();
