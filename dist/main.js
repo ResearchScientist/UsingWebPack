@@ -1,1 +1,1 @@
-(()=>{"use strict";console.log(function(o){for(let l=0;l<o.length;l++){const n=o[l];console.log(n)}}(["cuddles","snuggles","Tabitha","hungry"]))})();
+(()=>{"use strict";console.log(function(t){for(let n=0;n<t.length;n++){const e=t[n];console.log(e)}}(["cuddles","snuggles","Tabitha","hungry"]));const t=(t=>{const n=document.createElement("button");return n.innerText="Button: I'm cute as a button",n})();document.body.appendChild(t)})();
