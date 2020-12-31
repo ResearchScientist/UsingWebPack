@@ -9,3 +9,9 @@ p {
   height: 100px;
   background-color: salmon;
 }
+
+footer {
+  width: 100vw;
+  height: 10vh;
+  background-color: tomato;
+}
