@@ -1,7 +1,3 @@
-const makeFooter = () => {
+const footer = document.createElement("footer");
 
-  const footer = document.createElement("footer");
-  return footer;
-};
-
-export {makeFooter,footer};
+export {footer};
