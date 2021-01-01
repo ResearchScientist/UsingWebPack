@@ -18,7 +18,7 @@ document.body.appendChild(button);
 //});
 
 button.addEventListener("click", e => {
-  getFooter.then(footerModule => {
+  getFooter().then(footerModule => {
     document.body.appendChild(footerModule.footer);
   });
 });
