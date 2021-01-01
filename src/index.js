@@ -11,7 +11,7 @@ document.body.appendChild(button);
 
 
 button.addEventListener("click", e => {
-  import("./footer").then(footerModule => {
+  import("./footer.js").then(footerModule => {
     document.body.appendChild(footerModule.footer);
   });
 });
